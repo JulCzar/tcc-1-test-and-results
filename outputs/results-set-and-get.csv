@@ -1,0 +1,10 @@
+name,time,times
+testSetAndGetItem,2.4,1000
+testSetAndGetItem,5.5,2500
+testSetAndGetItem,9.9,5000
+testSetAndGetItem,20.3,10000
+testSetAndGetItem,60.3,25000
+testSetAndGetItem,107.8,50000
+testSetAndGetItem,211.3,100000
+testSetAndGetItem,538.3,250000
+testSetAndGetItem,1128.2,500000

@@ -1,0 +1,10 @@
+name,time,times
+testGetItem,0.2,1000
+testGetItem,0.3,2500
+testGetItem,0.1,5000
+testGetItem,0.2,10000
+testGetItem,0.6,25000
+testGetItem,1,50000
+testGetItem,1.9,100000
+testGetItem,5.2,250000
+testGetItem,9.3,500000

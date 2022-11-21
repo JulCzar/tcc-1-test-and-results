@@ -1,0 +1,7 @@
+name,time,times
+testSetGetItem,260.0,1000
+testSetGetItem,584.8,2500
+testSetGetItem,1093.4,5000
+testSetGetItem,2075.9,10000
+testSetGetItem,5110.3,25000
+testSetGetItem,10401.9,50000
