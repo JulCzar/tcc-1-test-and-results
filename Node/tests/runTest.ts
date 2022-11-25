@@ -1,8 +1,6 @@
 const repeatTimes = 10;
 
-const testTimes = [
-  1_000, 2_500, 5_000, 10_000, 25_000, 50_000, 100_000, 250_000, 500_000,
-]; 
+const testTimes = [1000, 2500, 5000, 10000, 25000, 50000];
 
 export function testRunner(test: () => void, times: number) {
   const start = Date.now();

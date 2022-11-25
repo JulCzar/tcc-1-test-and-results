@@ -1,3 +1,2 @@
-export * from './testSetAndGetItem';
-export * from './testSetItem';
-export * from './testGetItem';
+export * as persistorNodeTests from './persistor-node';
+export * as nodeLocalStorageTests from './node-localstorage';

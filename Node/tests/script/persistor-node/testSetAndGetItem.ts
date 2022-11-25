@@ -1,4 +1,4 @@
-import persistentStorage from '../../src/services/persistentStorage';
+import persistentStorage from '../../../src/services/persistentStorage';
 
 export function testSetAndGetItem() {
   const key = 'foo';
